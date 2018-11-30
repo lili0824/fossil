@@ -34,4 +34,4 @@ python fossil.py original_tree.nw landmark foreign.txt −f
 
 ## Author
 Student: Li Li
-Advisor: Nina Amenta
+Advisor: Nina Amenta, Tim Weaver
